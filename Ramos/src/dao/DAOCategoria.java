@@ -18,7 +18,7 @@ public class DAOCategoria {
 			return null;
 			
 			
-		} catch(Exception e){
+		} catch(Exception e){ 
 			e.printStackTrace();
 			return null;
 		}finally {
